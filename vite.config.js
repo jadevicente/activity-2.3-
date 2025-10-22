@@ -3,7 +3,7 @@ const isCodeSandbox = 'SANDBOX_URL' in process.env || 'CODESANDBOX_HOST' in proc
 export default {
     root: 'src/',
     publicDir: '../static/',
-    base: '/Activity-2.3-/',
+    base: '/activity-2.3-/',
     server:
     {
         host: true,
